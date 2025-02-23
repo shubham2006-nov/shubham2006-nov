@@ -1,9 +1,9 @@
-Hi there, I'm Shubham! 👋
+# Hi there, I'm Shubham! 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find a collection of my projects, contributions, and collaborations.
 I love experimenting with new technologies and solving problems through code.
 
-🚀 About Me
+# About Me
 
 * Name: Shubham
 
@@ -13,8 +13,7 @@ I love experimenting with new technologies and solving problems through code.
 
 * Current Focus: Improving my skills in coding .
   
-
-🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 * Languages: C/C++
 
@@ -23,15 +22,15 @@ I love experimenting with new technologies and solving problems through code.
 * Tools: Git, VS Code.
   
 
-🌱 Currently Learning
+# 🌱 Currently Learning
 
 * C/C++ , Html , CSS
   
 
- 📈 GitHub Stats
+ # 📈 GitHub Stats
  
 
-📫 How to Reach Me
+# 📫 How to Reach Me
 
 * Email: dograshubham005@gmail.com
 
@@ -40,7 +39,7 @@ I love experimenting with new technologies and solving problems through code.
 * Reddit : shubham_9026
   
 
-📚 My Projects
+# 📚 My Projects
  Here are a few highlights of my projects:
 
  * Project Name: 
