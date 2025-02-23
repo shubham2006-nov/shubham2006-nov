@@ -46,6 +46,8 @@ I love experimenting with new technologies and solving problems through code.
  1> Tic Tac Toe game .
 
  2> Sudoku game .
+ 
+ 3> Snake and ladder game .
 
 # GitHub Repository
 
