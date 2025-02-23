@@ -1,14 +1,17 @@
 Hi there, I'm Shubham! 👋
+
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find a collection of my projects, contributions, and collaborations.
 I love experimenting with new technologies and solving problems through code.
 
 🚀 About Me
+
 Name: Shubham
 GitHub Username: shubham2006-nov
 Interests: Coding, Web Development  and more.
 Current Focus: Improving my skills in coding .
 
 🛠️ Technologies & Tools
+
 Languages: C/C++
 Web Development: HTML, CSS .
 Tools: Git, VS Code.
