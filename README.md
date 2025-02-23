@@ -12,6 +12,7 @@ I love experimenting with new technologies and solving problems through code.
 * Interests: Coding, Web Development  and more.
 
 * Current Focus: Improving my skills in coding .
+  
 
 🛠️ Technologies & Tools
 
@@ -20,12 +21,15 @@ I love experimenting with new technologies and solving problems through code.
 * Web Development: HTML, CSS .
 
 * Tools: Git, VS Code.
+  
 
 🌱 Currently Learning
 
-* C/C++ , Html , CSS 
+* C/C++ , Html , CSS
+  
 
  📈 GitHub Stats
+ 
 
 📫 How to Reach Me
 
@@ -33,7 +37,8 @@ I love experimenting with new technologies and solving problems through code.
 
 * Twitter: @shubham2006
 
-* Reddit : shubham_9026 
+* Reddit : shubham_9026
+  
 
 📚 My Projects
  Here are a few highlights of my projects:
