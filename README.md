@@ -25,9 +25,7 @@ I love experimenting with new technologies and solving problems through code.
 
 * C/C++ , Html , CSS 
 
-📈 GitHub Stats
-
-Shubham's GitHub stats
+ 📈 GitHub Stats
 
 📫 How to Reach Me
 
@@ -42,9 +40,9 @@ Shubham's GitHub stats
 
  * Project Name: 
 
-1> Tic Tac Toe game .
+ 1> Tic Tac Toe game .
 
-2> Sudoku game .
+ 2> Sudoku game .
 
 # GitHub Repository
 
