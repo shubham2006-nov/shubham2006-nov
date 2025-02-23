@@ -5,25 +5,25 @@ I love experimenting with new technologies and solving problems through code.
 
 🚀 About Me
 
-Name: Shubham
+* Name: Shubham
 
-GitHub Username: shubham2006-nov
+* GitHub Username: shubham2006-nov
 
-Interests: Coding, Web Development  and more.
+* Interests: Coding, Web Development  and more.
 
-Current Focus: Improving my skills in coding .
+* Current Focus: Improving my skills in coding .
 
 🛠️ Technologies & Tools
 
-Languages: C/C++
+* Languages: C/C++
 
-Web Development: HTML, CSS .
+* Web Development: HTML, CSS .
 
-Tools: Git, VS Code.
+* Tools: Git, VS Code.
 
 🌱 Currently Learning
 
-C/C++ , Html , CSS 
+* C/C++ , Html , CSS 
 
 📈 GitHub Stats
 
@@ -31,17 +31,17 @@ Shubham's GitHub stats
 
 📫 How to Reach Me
 
-Email: dograshubham005@gmail.com
+* Email: dograshubham005@gmail.com
 
-Twitter: @shubham2006
+* Twitter: @shubham2006
 
-Reddit : shubham_9026 
+* Reddit : shubham_9026 
 
 📚 My Projects
 
-Here are a few highlights of my projects:
+* Here are a few highlights of my projects:
 
-Project Name: 
+* Project Name: 
 
 1> Tic Tac Toe game .
 
