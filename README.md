@@ -27,7 +27,6 @@ I love experimenting with new technologies and solving problems through code.
 * C/C++ , Html , CSS
   
 
- # 📈 GitHub Stats
  
 
 # 📫 How to Reach Me
