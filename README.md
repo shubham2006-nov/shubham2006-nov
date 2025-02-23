@@ -38,16 +38,15 @@ Shubham's GitHub stats
 * Reddit : shubham_9026 
 
 📚 My Projects
+ Here are a few highlights of my projects:
 
-* Here are a few highlights of my projects:
-
-* Project Name: 
+ * Project Name: 
 
 1> Tic Tac Toe game .
 
 2> Sudoku game .
 
-GitHub Repository
+# GitHub Repository
 
 Feel free to explore my repositories and contribute to any project that interests you. Let's collaborate and create something amazing together!
 
