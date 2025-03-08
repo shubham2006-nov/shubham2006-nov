@@ -1,57 +1,41 @@
 # Hi there, I'm Shubham! 👋
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find a collection of my projects, contributions, and collaborations.
-I love experimenting with new technologies and solving problems through code.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find a collection of my projects, contributions, and collaborations. I love experimenting with new technologies and solving problems through code.
 
-# About Me
+## About Me
 
-* Name: Shubham Dogra 
+- **Name:** Shubham Dogra
+- **GitHub Username:** shubham2006-nov
+- **Interests:** Coding, Web Development, and more
+- **Current Focus:** Improving my skills in coding
 
-* GitHub Username: shubham2006-nov
+## 🛠️ Technologies & Tools
 
-* Interests: Coding, Web Development  and more.
+- **Languages:** C/C++
+- **Web Development:** HTML, CSS
+- **Tools:** Git, VS Code
 
-* Current Focus: Improving my skills in coding .
-  
-# 🛠️ Technologies & Tools
+## 🌱 Currently Learning
 
-* Languages: C/C++
+- C/C++
+- HTML
+- CSS
 
-* Web Development: HTML, CSS .
+## 📫 How to Reach Me
 
-* Tools: Git, VS Code.
-  
+- **Email:** dograshubham005@gmail.com
+- **Reddit:** shubham_9026
 
-# 🌱 Currently Learning
+## 📚 My Projects
+Here are a few highlights of my projects:
 
-* C/C++ , Html , CSS
-  
+- **Tic Tac Toe game:** A classic Tic Tac Toe game implemented in C++.
+- **Sudoku game:** A Sudoku puzzle game written in C++.
+- **Snake and Ladder game:** A fun Snake and Ladder game developed in C++.
+- **Amazon Front Page Clone:** A clone of the Amazon front page using HTML and CSS.
 
- 
-
-# 📫 How to Reach Me
-
-* Email: dograshubham005@gmail.com
-
-* Reddit : shubham_9026
-  
-
-# 📚 My Projects
- Here are a few highlights of my projects:
-
- * Project Name: 
-
- 1> Tic Tac Toe game .
-
- 2> Sudoku game .
- 
- 3> Snake and ladder game .
-
- 4> Amazon front page clone.
-
-# GitHub Repository
+## GitHub Repository
 
 Feel free to explore my repositories and contribute to any project that interests you. Let's collaborate and create something amazing together!
 
 Thank you for visiting my profile! Have a great day! 😊
-
