@@ -5,7 +5,7 @@ I love experimenting with new technologies and solving problems through code.
 
 # About Me
 
-* Name: Shubham
+* Name: Shubham Dogra 
 
 * GitHub Username: shubham2006-nov
 
@@ -33,8 +33,6 @@ I love experimenting with new technologies and solving problems through code.
 
 * Email: dograshubham005@gmail.com
 
-* Twitter: @shubham2006
-
 * Reddit : shubham_9026
   
 
@@ -48,6 +46,8 @@ I love experimenting with new technologies and solving problems through code.
  2> Sudoku game .
  
  3> Snake and ladder game .
+
+ 4> Amazon front page clone.
 
 # GitHub Repository
 
