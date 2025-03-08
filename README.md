@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 ## 🔭 Current Projects
 
 - **[shubham2006-nov](https://github.com/shubham2006-nov/shubham2006-nov)**:
-  - Config files for my GitHub profile.
 
 ---
 
@@ -45,9 +44,8 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 ## 📫 How to Reach Me
 
-- Email: [shubham@example.com](mailto:shubham@example.com) (replace with your actual email)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/shubham2006-nov/)
-- Twitter: [Follow me](https://twitter.com/shubham2006-nov)
+- Email: [dograshubham06@gmail.com](mailto:shubham@example.com) (replace with your actual email)
+- Reddit: [Follow me-shubham_9026](https://twitter.com/shubham2006-nov)
 
 ---
 
@@ -84,9 +82,8 @@ Feel free to check out my repositories and contribute to them!
 
 ## 📞 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shubham2006-nov/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/shubham2006-nov)
-
+[![Email](dograshubham06@gmail.com)](https://www.linkedin.com/in/shubham2006-nov/)
+[!Reddit](Follow me-shubham_9026](https://twitter.com/shubham2006-nov)
 ---
 
 ## 📈 GitHub Profile Trophy
