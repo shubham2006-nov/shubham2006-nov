@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 ## 📫 How to Reach Me
 
-- Email: [dograshubham06@gmail.com](mailto:shubham@example.com) (replace with your actual email)
+- Email: [dograshubham06@gmail.com](mailto:shubham@example.com)
 - Reddit: [Follow me-shubham_9026](https://twitter.com/shubham2006-nov)
 
 ---
@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 Here are some of my public repositories:
 
-- [**shubham2006-nov**](https://github.com/shubham2006-nov/shubham2006-nov): Config files for my GitHub profile.
+- [**shubham2006-nov**](https://github.com/shubham2006-nov/shubham2006-nov):
 
 Feel free to check out my repositories and contribute to them!
 
@@ -93,7 +93,7 @@ Feel free to check out my repositories and contribute to them!
 
 ## 📞 Connect with Me
 
-- Email: [dograshubham06@gmail.com](mailto:shubham@example.com) (replace with your actual email)
+- Email: [dograshubham06@gmail.com](mailto:shubham@example.com) 
 - Reddit: [Follow me-shubham_9026](https://reddit.com/shubham2006-nov)
 ---
 
