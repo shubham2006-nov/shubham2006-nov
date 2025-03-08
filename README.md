@@ -17,7 +17,11 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - Diving deeper into open-source contributions.
 
 ---
-
+### Languages I'm Currently Learning
+- C
+- C++
+- HTML
+- CSS
 ## 👯 Collaboration
 
 - Looking to collaborate on open-source projects.
