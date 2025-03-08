@@ -6,17 +6,8 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 ## 🔭 Current Projects
 
-- **[Basic Codes of C++ Language](https://github.com/shubham2006-nov/Basic-codes-of-C-plus-plus-Lang)**:
-  - Here are some basic codes of the C++ language.
-
-- **[Html and CSS Basic Codes](https://github.com/shubham2006-nov/Html-plus-CSS-basic-codes)**:
-  - A collection of basic HTML and CSS codes.
-
 - **[Html and CSS Projects](https://github.com/shubham2006-nov/Html-plus-CSS-Projects)**:
   - Projects created using HTML and CSS.
-
-- **[Basic C Codes](https://github.com/shubham2006-nov/Basic-C-Codes-)**:
-  - These are some basic C language codes.
 
 - **[Project of C Language](https://github.com/shubham2006-nov/Project-Of-C-Lang.)**:
   - Some basic projects of the C language.
