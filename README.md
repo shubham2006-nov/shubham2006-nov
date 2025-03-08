@@ -93,8 +93,8 @@ Feel free to check out my repositories and contribute to them!
 
 ## 📞 Connect with Me
 
-[![Email](dograshubham06@gmail.com)](https://www.linkedin.com/in/shubham2006-nov/)
-[!Reddit](Follow me-shubham_9026](https://twitter.com/shubham2006-nov)
+- Email: [dograshubham06@gmail.com](mailto:shubham@example.com) (replace with your actual email)
+- Reddit: [Follow me-shubham_9026](https://reddit.com/shubham2006-nov)
 ---
 
 ## 📈 GitHub Profile Trophy
