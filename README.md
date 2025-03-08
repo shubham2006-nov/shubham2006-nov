@@ -1,41 +1,49 @@
-# Hi there, I'm Shubham! 👋
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find a collection of my projects, contributions, and collaborations. I love experimenting with new technologies and solving problems through code.
+#🚀 Hi, I'm Shubham Dogra. 
+Welcome to my GitHub profile.
+#⚡️ About Me:
+👨‍💻 I’m a passionate Developer.
+📖 Currently exploring Web Development.
+🎯 Always working towards improving my skills and making an impact through programming.
+🧠 I enjoy building projects that challenge my problem-solving skills and constantly push me to learn more.
+💻 Tech Stack
+Languages
+HTML CSS C C++
 
-## About Me
+Tools
+Git GitHub VS Code
 
-- **Name:** Shubham Dogra
-- **GitHub Username:** shubham2006-nov
-- **Interests:** Coding, Web Development, and more
-- **Current Focus:** Improving my skills in coding
+📊 GitHub Stats
+GitHub Stats
 
-## 🛠️ Technologies & Tools
+🔥 GitHub Streak
+GitHub Streak
 
-- **Languages:** C/C++
-- **Web Development:** HTML, CSS
-- **Tools:** Git, VS Code
+🎯 Most Used Languages
+Top Languages
 
-## 🌱 Currently Learning
+🚀 Featured Projects:
+🎮 Tic Tac Toe Game
+🕹️ A C-based Tic Tac Toe game with a basic AI opponent and a user-friendly interface. 🔧 Technologies: C, Terminal-based, AI (Simple Logic)
 
-- C/C++
-- HTML
-- CSS
+🎯 Guess The Number Game (C)
+🔢 C-based Guess The Number Game that challenges the player to guess the correct number. 🔧 Technologies: C, Terminal-based game, AI.
 
-## 📫 How to Reach Me
+📊 Grading System
+🎓 A system that assigns grades to students based on their marks. 🔧 Technologies: C
 
-- **Email:** dograshubham005@gmail.com
-- **Reddit:** shubham_9026
+🎯 Guess The Number Game (C++)
+🔢 C++-based Guess The Number Game with enhanced logic and interactivity.
 
-## 📚 My Projects
-Here are a few highlights of my projects:
+🧮 Simple Calculator
+➕➖ A fast and easy-to-use calculator that can solve basic arithmetic problems. 🔧 Technologies: C++, Terminal-based
 
-- **Tic Tac Toe game:** A classic Tic Tac Toe game implemented in C++.
-- **Sudoku game:** A Sudoku puzzle game written in C++.
-- **Snake and Ladder game:** A fun Snake and Ladder game developed in C++.
-- **Amazon Front Page Clone:** A clone of the Amazon front page using HTML and CSS.
+📫 Connect With Me
+Email LeetCode
 
-## GitHub Repository
-
-Feel free to explore my repositories and contribute to any project that interests you. Let's collaborate and create something amazing together!
-
-Thank you for visiting my profile! Have a great day! 😊
+🔭 I'm Open To:
+🚀 Collaborating on exciting C and Web Development projects.
+📖 Exploring new concepts in C++ to enhance my skills.
+🤝 Contributing to open-source projects and tackling coding challenges to stay sharp!
+🎉 Thank You for Visiting!
+I appreciate you stopping by! Feel free to connect with me on my socials and check out my projects. Happy coding! 🚀
